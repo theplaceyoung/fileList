@@ -1,0 +1,4 @@
+@echo on
+pause
+tree /f>%date:-=%-list2.txt
+exit
